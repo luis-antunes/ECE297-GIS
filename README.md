@@ -14,3 +14,12 @@ This application was made for my 2nd year Software Communication & Design Course
 - Intersection info panel displayed on corner of screen
 - Togglable points of interest
 - Zoom in on searched location or intersection
+
+## Graphics
+
+![](https://github.com/luis-antunes/ECE297-GIS/blob/main/instructions-example.gif)
+![](https://github.com/luis-antunes/ECE297-GIS/blob/main/path-click-example.gif)
+![](https://github.com/luis-antunes/ECE297-GIS/blob/main/search-example.gif)
+![](https://github.com/luis-antunes/ECE297-GIS/blob/main/colour-example.png)
+![](https://github.com/luis-antunes/ECE297-GIS/blob/main/route-example.png)
+![](https://github.com/luis-antunes/ECE297-GIS/blob/main/route-example.png)
